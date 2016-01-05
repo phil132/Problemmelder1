@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Problemmelder</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    
+      <string-array name="type_of_problem_array">
+        <item>Sonstiges</item>
+        <item>Verkehrszeichen</item>
+        <item>Haltestelle</item>
+        <item>Straßenbeleuchtung</item>
+        <item>Ampel defekt</item>
+        <item>Herrenlose Fahrzeuge / Fahrräder</item>
+        <item>wilde Müllkippe Sperrmüllreste</item>
+        <item>Gehweg/Straßenschäden</item>
+    </string-array>
+      <string name="action_about">About</string>
+
+</resources>

@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Users\\philipp\\AndroidStudioProjects\\Problemmelder1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\zoom_out.png",
+        "source": "C:\\Users\\philipp\\AndroidStudioProjects\\Problemmelder1\\app\\build\\intermediates\\exploded-aar\\org.osmdroid\\osmdroid-android\\5.0.1\\res\\drawable\\zoom_out.png"
+    },
+    {
+        "merged": "C:\\Users\\philipp\\AndroidStudioProjects\\Problemmelder1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\direction_arrow.png",
+        "source": "C:\\Users\\philipp\\AndroidStudioProjects\\Problemmelder1\\app\\build\\intermediates\\exploded-aar\\org.osmdroid\\osmdroid-android\\5.0.1\\res\\drawable\\direction_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\philipp\\AndroidStudioProjects\\Problemmelder1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\previous.png",
+        "source": "C:\\Users\\philipp\\AndroidStudioProjects\\Problemmelder1\\app\\build\\intermediates\\exploded-aar\\org.osmdroid\\osmdroid-android\\5.0.1\\res\\drawable\\previous.png"
+    },
+    {
+        "merged": "C:\\Users\\philipp\\AndroidStudioProjects\\Problemmelder1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\next.png",
+        "source": "C:\\Users\\philipp\\AndroidStudioProjects\\Problemmelder1\\app\\build\\intermediates\\exploded-aar\\org.osmdroid\\osmdroid-android\\5.0.1\\res\\drawable\\next.png"
+    },
+    {
+        "merged": "C:\\Users\\philipp\\AndroidStudioProjects\\Problemmelder1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\marker_default.png",
+        "source": "C:\\Users\\philipp\\AndroidStudioProjects\\Problemmelder1\\app\\build\\intermediates\\exploded-aar\\org.osmdroid\\osmdroid-android\\5.0.1\\res\\drawable\\marker_default.png"
+    },
+    {
+        "merged": "C:\\Users\\philipp\\AndroidStudioProjects\\Problemmelder1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navto_small.png",
+        "source": "C:\\Users\\philipp\\AndroidStudioProjects\\Problemmelder1\\app\\build\\intermediates\\exploded-aar\\org.osmdroid\\osmdroid-android\\5.0.1\\res\\drawable\\navto_small.png"
+    },
+    {
+        "merged": "C:\\Users\\philipp\\AndroidStudioProjects\\Problemmelder1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\marker_default_focused_base.png",
+        "source": "C:\\Users\\philipp\\AndroidStudioProjects\\Problemmelder1\\app\\build\\intermediates\\exploded-aar\\org.osmdroid\\osmdroid-android\\5.0.1\\res\\drawable\\marker_default_focused_base.png"
+    },
+    {
+        "merged": "C:\\Users\\philipp\\AndroidStudioProjects\\Problemmelder1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\zoom_in.png",
+        "source": "C:\\Users\\philipp\\AndroidStudioProjects\\Problemmelder1\\app\\build\\intermediates\\exploded-aar\\org.osmdroid\\osmdroid-android\\5.0.1\\res\\drawable\\zoom_in.png"
+    },
+    {
+        "merged": "C:\\Users\\philipp\\AndroidStudioProjects\\Problemmelder1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\person.png",
+        "source": "C:\\Users\\philipp\\AndroidStudioProjects\\Problemmelder1\\app\\build\\intermediates\\exploded-aar\\org.osmdroid\\osmdroid-android\\5.0.1\\res\\drawable\\person.png"
+    },
+    {
+        "merged": "C:\\Users\\philipp\\AndroidStudioProjects\\Problemmelder1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\center.png",
+        "source": "C:\\Users\\philipp\\AndroidStudioProjects\\Problemmelder1\\app\\build\\intermediates\\exploded-aar\\org.osmdroid\\osmdroid-android\\5.0.1\\res\\drawable\\center.png"
+    }
+]

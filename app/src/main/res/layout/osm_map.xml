@@ -1,0 +1,80 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <org.osmdroid.views.MapView
+        android:id="@+id/mapview"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:clickable="true"
+        tilesource="Mapnik"/>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true" >
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentRight="true"
+            android:weightSum="100" >
+
+            <Button
+                android:id="@+id/btnBackCamera"
+                style="@style/AppTheme"
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:layout_weight="50"
+                android:background="@drawable/btn_background"
+                android:drawableLeft="@drawable/navigation_previous_item"
+                android:text="Bild wählen" />
+
+            <Button
+                android:id="@+id/btnDescription"
+                style="@style/AppTheme"
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:layout_weight="50"
+                android:background="@drawable/btn_background"
+                android:drawableRight="@drawable/navigation_next_item"
+                android:text="Beschreiben" />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/tv_position_info"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:text="Aktuelle Positon:  "
+            android:textSize="12dp" />
+
+        <TextView
+            android:id="@+id/tvPosition"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/bZoomToPosition"
+            android:layout_toRightOf="@+id/tv_position_info"
+            android:text="keine Standortbestimmung möglich"
+            android:textSize="12dp" />
+
+        <ImageButton
+            android:id="@+id/bZoomToPosition"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_below="@+id/tv_position_info"
+            android:layout_marginLeft="17dp"
+            android:layout_marginTop="16dp"
+            android:background="@drawable/btn_background"
+            android:src="@android:drawable/ic_menu_mylocation"
+            android:text="Button" />
+
+    </RelativeLayout>
+
+</RelativeLayout>

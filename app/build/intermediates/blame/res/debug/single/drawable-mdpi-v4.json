@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\philipp\\AndroidStudioProjects\\Problemmelder1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\philipp\\AndroidStudioProjects\\Problemmelder1\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\philipp\\AndroidStudioProjects\\Problemmelder1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\navigation_next_item.png",
+        "source": "C:\\Users\\philipp\\AndroidStudioProjects\\Problemmelder1\\app\\src\\main\\res\\drawable-mdpi\\navigation_next_item.png"
+    },
+    {
+        "merged": "C:\\Users\\philipp\\AndroidStudioProjects\\Problemmelder1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\navigation_previous_item.png",
+        "source": "C:\\Users\\philipp\\AndroidStudioProjects\\Problemmelder1\\app\\src\\main\\res\\drawable-mdpi\\navigation_previous_item.png"
+    },
+    {
+        "merged": "C:\\Users\\philipp\\AndroidStudioProjects\\Problemmelder1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\action_settings.png",
+        "source": "C:\\Users\\philipp\\AndroidStudioProjects\\Problemmelder1\\app\\src\\main\\res\\drawable-mdpi\\action_settings.png"
+    },
+    {
+        "merged": "C:\\Users\\philipp\\AndroidStudioProjects\\Problemmelder1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\action_about.png",
+        "source": "C:\\Users\\philipp\\AndroidStudioProjects\\Problemmelder1\\app\\src\\main\\res\\drawable-mdpi\\action_about.png"
+    }
+]

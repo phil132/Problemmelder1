@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:gravity="center" >
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:weightSum="100" android:id="@+id/linearLayout3">
+
+        <Button
+            android:id="@+id/btnBackMain"
+            style="@style/AppTheme"
+            android:background="@drawable/btn_background"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:layout_weight="50"
+            android:drawableLeft="@drawable/navigation_previous_item"
+            android:text="Hauptmenü" />
+
+        <Button
+            android:id="@+id/btnPos"
+            android:background="@drawable/btn_background"
+            style="@style/AppTheme"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:layout_weight="50"
+            android:drawableRight="@drawable/navigation_next_item"
+            android:text="Position" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linearLayout2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+        android:paddingTop="50dp" >
+
+        <ImageButton
+            android:id="@+id/ibtnCamera"
+            android:background="@drawable/btn_background"
+            android:layout_width="120dp"
+            android:layout_height="80dp"
+            android:src="@android:drawable/ic_menu_camera" />
+
+        <View
+            android:layout_width="wrap_content"
+            android:layout_height="0dip"
+            android:layout_weight="1" />
+
+        <ImageButton
+            android:id="@+id/ibtnGallery"
+            android:layout_width="120dp"
+            android:layout_height="80dp"
+            android:src="@android:drawable/ic_menu_gallery" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linearLayout1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/linearLayout2"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:paddingTop="5dp"
+        android:paddingLeft="40dp"
+        android:paddingRight="30dp" >
+
+        <TextView
+            android:id="@+id/tvCamera"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Foto machen" />
+
+        <View
+            android:layout_width="wrap_content"
+            android:layout_height="0dip"
+            android:layout_weight="1" />
+
+        <TextView
+            android:id="@+id/tvGallery"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Foto aus Galerie"
+            android:textAppearance="?android:attr/textAppearanceSmall" />
+
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/ivPicture"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:src="@android:drawable/alert_light_frame" />
+
+    <TextView
+        android:id="@+id/tvPhotoPath"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/ivPicture"
+        android:gravity="center"
+        android:text="kein Foto ausgewählt"
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+
+</RelativeLayout>

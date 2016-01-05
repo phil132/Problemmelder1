@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="100" >
+
+   <LinearLayout
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:layout_alignParentLeft="true"
+       android:layout_alignParentRight="true"
+       android:layout_centerVertical="true"
+       android:orientation="vertical" >
+
+       <ImageButton
+           android:id="@+id/iBtnNewProblem"
+           android:layout_width="100dp"
+           android:layout_height="100dp"
+           android:layout_gravity="center"
+           android:background="@drawable/btn_background"
+           android:src="@drawable/ic_launcher" />
+
+       <TextView
+           android:id="@+id/textView1"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:layout_gravity="center"
+           android:paddingTop="10dp"
+           android:text="Schaden melden"
+           android:textAppearance="?android:attr/textAppearanceMedium" />
+
+       <ImageButton
+           android:id="@+id/iBtnProblemMap"
+           android:layout_width="100dp"
+           android:layout_height="100dp"
+           android:layout_marginTop="50dp"
+           android:layout_gravity="center"
+           android:background="@drawable/btn_background"
+           android:src="@android:drawable/ic_menu_mapmode" />
+
+       <TextView
+           android:id="@+id/textView2"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:layout_gravity="center"
+           android:paddingTop="10dp"
+           android:text="Karte"
+           android:textAppearance="?android:attr/textAppearanceMedium" />
+   </LinearLayout>
+
+</RelativeLayout>

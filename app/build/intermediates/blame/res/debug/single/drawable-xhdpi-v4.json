@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\philipp\\AndroidStudioProjects\\Problemmelder1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\action_about.png",
+        "source": "C:\\Users\\philipp\\AndroidStudioProjects\\Problemmelder1\\app\\src\\main\\res\\drawable-xhdpi\\action_about.png"
+    },
+    {
+        "merged": "C:\\Users\\philipp\\AndroidStudioProjects\\Problemmelder1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\philipp\\AndroidStudioProjects\\Problemmelder1\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\philipp\\AndroidStudioProjects\\Problemmelder1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\navigation_next_item.png",
+        "source": "C:\\Users\\philipp\\AndroidStudioProjects\\Problemmelder1\\app\\src\\main\\res\\drawable-xhdpi\\navigation_next_item.png"
+    },
+    {
+        "merged": "C:\\Users\\philipp\\AndroidStudioProjects\\Problemmelder1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\position.png",
+        "source": "C:\\Users\\philipp\\AndroidStudioProjects\\Problemmelder1\\app\\src\\main\\res\\drawable-xhdpi\\position.png"
+    },
+    {
+        "merged": "C:\\Users\\philipp\\AndroidStudioProjects\\Problemmelder1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\action_settings.png",
+        "source": "C:\\Users\\philipp\\AndroidStudioProjects\\Problemmelder1\\app\\src\\main\\res\\drawable-xhdpi\\action_settings.png"
+    },
+    {
+        "merged": "C:\\Users\\philipp\\AndroidStudioProjects\\Problemmelder1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\map_pin.png",
+        "source": "C:\\Users\\philipp\\AndroidStudioProjects\\Problemmelder1\\app\\src\\main\\res\\drawable-xhdpi\\map_pin.png"
+    },
+    {
+        "merged": "C:\\Users\\philipp\\AndroidStudioProjects\\Problemmelder1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\navigation_previous_item.png",
+        "source": "C:\\Users\\philipp\\AndroidStudioProjects\\Problemmelder1\\app\\src\\main\\res\\drawable-xhdpi\\navigation_previous_item.png"
+    }
+]
